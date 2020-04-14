@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rivi/static/css/main.b69d8fdc.chunk.css",
-    "main.js": "/rivi/static/js/main.5bc9f230.chunk.js",
-    "main.js.map": "/rivi/static/js/main.5bc9f230.chunk.js.map",
+    "main.css": "/rivi/static/css/main.754528fd.chunk.css",
+    "main.js": "/rivi/static/js/main.fa7b7bd7.chunk.js",
+    "main.js.map": "/rivi/static/js/main.fa7b7bd7.chunk.js.map",
     "runtime-main.js": "/rivi/static/js/runtime-main.aa363d5d.js",
     "runtime-main.js.map": "/rivi/static/js/runtime-main.aa363d5d.js.map",
     "static/css/2.8cb4caa0.chunk.css": "/rivi/static/css/2.8cb4caa0.chunk.css",
-    "static/js/2.64150e50.chunk.js": "/rivi/static/js/2.64150e50.chunk.js",
-    "static/js/2.64150e50.chunk.js.map": "/rivi/static/js/2.64150e50.chunk.js.map",
+    "static/js/2.baf5fef8.chunk.js": "/rivi/static/js/2.baf5fef8.chunk.js",
+    "static/js/2.baf5fef8.chunk.js.map": "/rivi/static/js/2.baf5fef8.chunk.js.map",
     "index.html": "/rivi/index.html",
-    "precache-manifest.747bcddc529413e6d4c3fe13b1df4e2b.js": "/rivi/precache-manifest.747bcddc529413e6d4c3fe13b1df4e2b.js",
+    "precache-manifest.f34b6b16730df0a624d3004d8ae6199c.js": "/rivi/precache-manifest.f34b6b16730df0a624d3004d8ae6199c.js",
     "service-worker.js": "/rivi/service-worker.js",
     "static/css/2.8cb4caa0.chunk.css.map": "/rivi/static/css/2.8cb4caa0.chunk.css.map",
-    "static/css/main.b69d8fdc.chunk.css.map": "/rivi/static/css/main.b69d8fdc.chunk.css.map",
-    "static/js/2.64150e50.chunk.js.LICENSE.txt": "/rivi/static/js/2.64150e50.chunk.js.LICENSE.txt",
-    "static/js/main.5bc9f230.chunk.js.LICENSE.txt": "/rivi/static/js/main.5bc9f230.chunk.js.LICENSE.txt",
+    "static/css/main.754528fd.chunk.css.map": "/rivi/static/css/main.754528fd.chunk.css.map",
+    "static/js/2.baf5fef8.chunk.js.LICENSE.txt": "/rivi/static/js/2.baf5fef8.chunk.js.LICENSE.txt",
+    "static/js/main.fa7b7bd7.chunk.js.LICENSE.txt": "/rivi/static/js/main.fa7b7bd7.chunk.js.LICENSE.txt",
     "static/media/denys.jpg": "/rivi/static/media/denys.2ae3f9ec.jpg",
     "static/media/dots.png": "/rivi/static/media/dots.b81dabc0.png",
     "static/media/fabien-bazanegue.jpg": "/rivi/static/media/fabien-bazanegue.182796a2.jpg",
@@ -35,8 +35,8 @@
   "entrypoints": [
     "static/js/runtime-main.aa363d5d.js",
     "static/css/2.8cb4caa0.chunk.css",
-    "static/js/2.64150e50.chunk.js",
-    "static/css/main.b69d8fdc.chunk.css",
-    "static/js/main.5bc9f230.chunk.js"
+    "static/js/2.baf5fef8.chunk.js",
+    "static/css/main.754528fd.chunk.css",
+    "static/js/main.fa7b7bd7.chunk.js"
   ]
 }
