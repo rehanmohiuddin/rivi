@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rivi/static/css/main.754528fd.chunk.css",
-    "main.js": "/rivi/static/js/main.fa7b7bd7.chunk.js",
-    "main.js.map": "/rivi/static/js/main.fa7b7bd7.chunk.js.map",
+    "main.css": "/rivi/static/css/main.e97215c7.chunk.css",
+    "main.js": "/rivi/static/js/main.24b1179f.chunk.js",
+    "main.js.map": "/rivi/static/js/main.24b1179f.chunk.js.map",
     "runtime-main.js": "/rivi/static/js/runtime-main.aa363d5d.js",
     "runtime-main.js.map": "/rivi/static/js/runtime-main.aa363d5d.js.map",
     "static/css/2.8cb4caa0.chunk.css": "/rivi/static/css/2.8cb4caa0.chunk.css",
-    "static/js/2.baf5fef8.chunk.js": "/rivi/static/js/2.baf5fef8.chunk.js",
-    "static/js/2.baf5fef8.chunk.js.map": "/rivi/static/js/2.baf5fef8.chunk.js.map",
+    "static/js/2.c88d27ec.chunk.js": "/rivi/static/js/2.c88d27ec.chunk.js",
+    "static/js/2.c88d27ec.chunk.js.map": "/rivi/static/js/2.c88d27ec.chunk.js.map",
     "index.html": "/rivi/index.html",
-    "precache-manifest.f34b6b16730df0a624d3004d8ae6199c.js": "/rivi/precache-manifest.f34b6b16730df0a624d3004d8ae6199c.js",
+    "precache-manifest.c45936be44d0455df02cce7a97d12f9f.js": "/rivi/precache-manifest.c45936be44d0455df02cce7a97d12f9f.js",
     "service-worker.js": "/rivi/service-worker.js",
     "static/css/2.8cb4caa0.chunk.css.map": "/rivi/static/css/2.8cb4caa0.chunk.css.map",
-    "static/css/main.754528fd.chunk.css.map": "/rivi/static/css/main.754528fd.chunk.css.map",
-    "static/js/2.baf5fef8.chunk.js.LICENSE.txt": "/rivi/static/js/2.baf5fef8.chunk.js.LICENSE.txt",
-    "static/js/main.fa7b7bd7.chunk.js.LICENSE.txt": "/rivi/static/js/main.fa7b7bd7.chunk.js.LICENSE.txt",
+    "static/css/main.e97215c7.chunk.css.map": "/rivi/static/css/main.e97215c7.chunk.css.map",
+    "static/js/2.c88d27ec.chunk.js.LICENSE.txt": "/rivi/static/js/2.c88d27ec.chunk.js.LICENSE.txt",
+    "static/js/main.24b1179f.chunk.js.LICENSE.txt": "/rivi/static/js/main.24b1179f.chunk.js.LICENSE.txt",
     "static/media/denys.jpg": "/rivi/static/media/denys.2ae3f9ec.jpg",
-    "static/media/dots.png": "/rivi/static/media/dots.b81dabc0.png",
+    "static/media/blk-design-system-react.scss?v=1.1.0": "/rivi/static/media/square5.ff004a0e.png",
     "static/media/fabien-bazanegue.jpg": "/rivi/static/media/fabien-bazanegue.182796a2.jpg",
     "static/media/github.svg": "/rivi/static/media/github.4ffd4fe7.svg",
     "static/media/google.svg": "/rivi/static/media/google.87be59a1.svg",
@@ -29,14 +29,13 @@
     "static/media/path4.png": "/rivi/static/media/path4.e37326c7.png",
     "static/media/path5.png": "/rivi/static/media/path5.ceb241f0.png",
     "static/media/profile-page.png": "/rivi/static/media/profile-page.2515c8e5.png",
-    "static/media/square-purple-1.png": "/rivi/static/media/square-purple-1.79c1998f.png",
-    "static/media/blk-design-system-react.scss?v=1.1.0": "/rivi/static/media/square5.ff004a0e.png"
+    "static/media/square-purple-1.png": "/rivi/static/media/square-purple-1.79c1998f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.aa363d5d.js",
     "static/css/2.8cb4caa0.chunk.css",
-    "static/js/2.baf5fef8.chunk.js",
-    "static/css/main.754528fd.chunk.css",
-    "static/js/main.fa7b7bd7.chunk.js"
+    "static/js/2.c88d27ec.chunk.js",
+    "static/css/main.e97215c7.chunk.css",
+    "static/js/main.24b1179f.chunk.js"
   ]
 }
