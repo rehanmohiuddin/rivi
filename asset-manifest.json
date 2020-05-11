@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/rivi/static/css/main.416da3b8.chunk.css",
-    "main.js": "/rivi/static/js/main.634962bc.chunk.js",
-    "main.js.map": "/rivi/static/js/main.634962bc.chunk.js.map",
+    "main.js": "/rivi/static/js/main.1c6fdbcd.chunk.js",
+    "main.js.map": "/rivi/static/js/main.1c6fdbcd.chunk.js.map",
     "runtime-main.js": "/rivi/static/js/runtime-main.c9526ee6.js",
     "runtime-main.js.map": "/rivi/static/js/runtime-main.c9526ee6.js.map",
     "static/css/2.8cb4caa0.chunk.css": "/rivi/static/css/2.8cb4caa0.chunk.css",
-    "static/js/2.7832bfdc.chunk.js": "/rivi/static/js/2.7832bfdc.chunk.js",
-    "static/js/2.7832bfdc.chunk.js.map": "/rivi/static/js/2.7832bfdc.chunk.js.map",
+    "static/js/2.9978a7db.chunk.js": "/rivi/static/js/2.9978a7db.chunk.js",
+    "static/js/2.9978a7db.chunk.js.map": "/rivi/static/js/2.9978a7db.chunk.js.map",
     "index.html": "/rivi/index.html",
-    "precache-manifest.b8f333a272cd47454a845c471bba5b05.js": "/rivi/precache-manifest.b8f333a272cd47454a845c471bba5b05.js",
+    "precache-manifest.0290cf899a5c54efee60c55c3304cf60.js": "/rivi/precache-manifest.0290cf899a5c54efee60c55c3304cf60.js",
     "service-worker.js": "/rivi/service-worker.js",
     "static/css/2.8cb4caa0.chunk.css.map": "/rivi/static/css/2.8cb4caa0.chunk.css.map",
     "static/css/main.416da3b8.chunk.css.map": "/rivi/static/css/main.416da3b8.chunk.css.map",
-    "static/js/2.7832bfdc.chunk.js.LICENSE.txt": "/rivi/static/js/2.7832bfdc.chunk.js.LICENSE.txt",
-    "static/js/main.634962bc.chunk.js.LICENSE.txt": "/rivi/static/js/main.634962bc.chunk.js.LICENSE.txt",
-    "static/media/Group 359.png": "/rivi/static/media/Group 359.dc046395.png",
+    "static/js/2.9978a7db.chunk.js.LICENSE.txt": "/rivi/static/js/2.9978a7db.chunk.js.LICENSE.txt",
+    "static/js/main.1c6fdbcd.chunk.js.LICENSE.txt": "/rivi/static/js/main.1c6fdbcd.chunk.js.LICENSE.txt",
     "static/media/Web 1280 – 1.png": "/rivi/static/media/Web 1280 – 1.42c6324f.png",
     "static/media/denys.jpg": "/rivi/static/media/denys.2ae3f9ec.jpg",
     "static/media/blk-design-system-react.scss?v=1.1.0": "/rivi/static/media/square5.ff004a0e.png",
     "static/media/fabien-bazanegue.jpg": "/rivi/static/media/fabien-bazanegue.182796a2.jpg",
     "static/media/github.svg": "/rivi/static/media/github.4ffd4fe7.svg",
     "static/media/google.svg": "/rivi/static/media/google.87be59a1.svg",
+    "static/media/hea.png": "/rivi/static/media/hea.e238dc43.png",
     "static/media/landing-page.png": "/rivi/static/media/landing-page.c085e83e.png",
     "static/media/mark-finn.jpg": "/rivi/static/media/mark-finn.3a749d18.jpg",
     "static/media/mike.jpg": "/rivi/static/media/mike.be4a1748.jpg",
@@ -36,8 +36,8 @@
   "entrypoints": [
     "static/js/runtime-main.c9526ee6.js",
     "static/css/2.8cb4caa0.chunk.css",
-    "static/js/2.7832bfdc.chunk.js",
+    "static/js/2.9978a7db.chunk.js",
     "static/css/main.416da3b8.chunk.css",
-    "static/js/main.634962bc.chunk.js"
+    "static/js/main.1c6fdbcd.chunk.js"
   ]
 }
